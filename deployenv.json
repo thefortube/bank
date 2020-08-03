@@ -1,0 +1,260 @@
+{
+    "test": {
+        "tokens": [
+            {
+                "symbol": "IMBTC",
+                "address": "0xd6a42B6a9389EceBcFFb29A354e165b8dA3C2552",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "8"
+            },
+            {
+                "symbol": "USDT",
+                "address": "0xaA7e28750d8BF25B86E06172f745B4a37B2C628f",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "6",
+                "chainlinkPrice": "0x32CaF402b41018C445f3f515fE2832969B22f219"
+            },
+            {
+                "symbol": "USDC",
+                "address": "0xBc497c75630e2a824faC879E5dD2E2bB5EE9aDa5",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "6",
+                "chainlinkPrice": "0x547A609B885f2dd3359390Fa704f607307D751E1"
+            },
+            {
+                "symbol": "DAI",
+                "address": "0x907c4c8c42767f6e73b86881b78433f08779279a",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "18"
+            },
+            {
+                "symbol": "ETH",
+                "address": "0x0000000000000000000000000000000000000000",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "18",
+                "chainlinkPrice": "0x9FCfed00dccc9A438d596dF72622C8e63bc779De"
+            },
+            {
+                "symbol": "WETH",
+                "address": "0x8e7747D4fcABefEA69Cd110f42848A0756aB72c3",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "18"
+            },
+            {
+                "symbol": "HBTC",
+                "address": "0x2267a85a98f5c34e30220d439b3fc648e25f67d2",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "18"
+            }
+        ],
+        "ethToUsdPrice": "0x9FCfed00dccc9A438d596dF72622C8e63bc779De",
+        "oracle": "0x9D9C2f5206bae73a92823DEc3921C927fee56D55"
+    },
+    "ropsten": {
+        "tokens": [
+            {
+                "symbol": "IMBTC",
+                "address": "0x90f2c7f043b09c961901f188f07324d641e3e8c6",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "8"
+            },
+            {
+                "symbol": "USDT",
+                "address": "0xa4f6c459185cc98c48305f88859f31ea2064e58e",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "6",
+                "chainlinkPrice": "0xC08fe0C4D97ccda6B40649c6dA621761b628c288"
+            },
+            {
+                "symbol": "USDC",
+                "address": "0xe9986AEB82edf96bb1F3d70979894Fd8c513b8C4",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "6",
+                "chainlinkPrice": "0xE1480303DDe539E2c241bdC527649F37c9cBef7d"
+            },
+            {
+                "symbol": "DAI",
+                "address": "0xBCb75dfBF59901e85DeC524e42d1d5a6B2d40992",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "18"
+            },
+            {
+                "symbol": "ETH",
+                "address": "0x0000000000000000000000000000000000000000",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "18",
+                "chainlinkPrice": "0x8468b2bDCE073A157E560AA4D9CcF6dB1DB98507"
+            },
+            {
+                "symbol": "WETH",
+                "address": "0x8e7747D4fcABefEA69Cd110f42848A0756aB72c3",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "18"
+            },
+            {
+                "symbol": "HBTC",
+                "address": "0x2267a85a98f5c34e30220d439b3fc648e25f67d2",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "18"
+            }
+        ],
+        "ethToUsdPrice": "0x8468b2bDCE073A157E560AA4D9CcF6dB1DB98507",
+        "oracle": "0x0000000000000000000000000000000000000000"
+    },
+    "rinkeby": {
+        "tokens": [
+            {
+                "symbol": "USDT",
+                "address": "0xaA7e28750d8BF25B86E06172f745B4a37B2C628f",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "6"
+            },
+            {
+                "symbol": "USDC",
+                "address": "0xBc497c75630e2a824faC879E5dD2E2bB5EE9aDa5",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "6"
+            },
+            {
+                "symbol": "DAI",
+                "address": "0x907c4c8c42767f6e73b86881b78433f08779279a",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "18"
+            },
+            {
+                "symbol": "ETH",
+                "address": "0x0000000000000000000000000000000000000000",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "18",
+                "chainlinkPrice": "0x0bF4e7bf3e1f6D6Dc29AA516A33134985cC3A5aA"
+            },
+            {
+                "symbol": "HBTC",
+                "address": "0x2267a85a98f5c34e30220d439b3fc648e25f67d2",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "18"
+            },
+            {
+                "symbol": "BUSD",
+                "address": "0x03897801957fb4c39ef677075fe1afca7b706507",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "18"
+            },
+            {
+                "symbol": "OKB",
+                "address": "0x482B46bACE7D5bE87Cf0923aaEDFE2465f9Af1Cb",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "18"
+            },
+            {
+                "symbol": "HT",
+                "address": "0xc82277e21c1569cc153e093d6462cb2262568ab9",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "18"
+            },
+            {
+                "symbol": "HUSD",
+                "address": "0xb31bAc7D2c15A1f552d1d67EAa870B6FF03eb6ac",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "8"
+            }
+        ],
+        "ethToUsdPrice": "0x0bF4e7bf3e1f6D6Dc29AA516A33134985cC3A5aA",
+        "oracle": "0x833406e30505304904e6BaD58461caB5d019541a"
+    },
+	"mainnet": {
+        "tokens": [
+            {
+                "symbol": "USDT",
+                "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "6",
+                "chainlinkPrice": "0xa874fe207DF445ff19E7482C746C4D3fD0CB9AcE"
+            },
+            {
+                "symbol": "USDC",
+                "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "6",
+                "chainlinkPrice": "0xdE54467873c3BCAA76421061036053e371721708"
+            },
+            {
+                "symbol": "DAI",
+                "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "18"
+            },
+            {
+                "symbol": "ETH",
+                "address": "0x0000000000000000000000000000000000000000",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "18",
+                "chainlinkPrice": "0xF79D6aFBb6dA890132F9D7c355e3015f15F3406F"
+            },
+            {
+                "symbol": "HBTC",
+                "address": "0x0316EB71485b0Ab14103307bf65a021042c6d380",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "18"
+            },
+            {
+                "symbol": "BUSD",
+                "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "18"
+            },
+            {
+                "symbol": "OKB",
+                "address": "0x75231f58b43240c9718dd58b4967c5114342a86c",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "18"
+            },
+            {
+                "symbol": "HT",
+                "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "18"
+            },
+            {
+                "symbol": "HUSD",
+                "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+                "discount": "5",
+                "deposit_multiple": "1.5",
+                "decimals": "8"
+            }
+        ],
+        "ethToUsdPrice": "0xF79D6aFBb6dA890132F9D7c355e3015f15F3406F",
+        "oracle": "0x53345F3B9FCb873783FfA5C8F043233AfD4991a6"
+    }
+}
